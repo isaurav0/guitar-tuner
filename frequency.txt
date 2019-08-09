@@ -1,0 +1,90 @@
+0: {frequency: 64.47222982305466, name: "C (a bit flat)"}
+1: {frequency: 65.41, name: "C"}
+2: {frequency: 66.36141035826343, name: "C (a bit sharp)"}
+3: {frequency: 68.30594810857714, name: "C# (a bit flat)"}
+4: {frequency: 69.2994810020415, name: "C#"}
+5: {frequency: 70.30746516421276, name: "C# (a bit sharp)"}
+6: {frequency: 72.36763114625859, name: "D (a bit flat)"}
+7: {frequency: 73.42024257991609, name: "D"}
+8: {frequency: 74.48816459943521, name: "D (a bit sharp)"}
+9: {frequency: 76.67083442566724, name: "D# (a bit flat)"}
+10: {frequency: 77.78603739232798, name: "D#"}
+11: {frequency: 78.91746135966214, name: "D# (a bit sharp)"}
+12: {frequency: 81.22991948772659, name: "E (a bit flat)"}
+13: {frequency: 82.41143587362365, name: "E"}
+14: {frequency: 83.61013781108777, name: "E (a bit sharp)"}
+15: {frequency: 86.06010185502323, name: "F (a bit flat)"}
+16: {frequency: 87.31187486126194, name: "F"}
+17: {frequency: 88.58185532514216, name: "F (a bit sharp)"}
+18: {frequency: 91.17750181219904, name: "F# (a bit flat)"}
+19: {frequency: 92.50370911482415, name: "F#"}
+20: {frequency: 93.84920654686253, name: "F# (a bit sharp)"}
+21: {frequency: 96.59919820590265, name: "G (a bit flat)"}
+22: {frequency: 98.00426589850373, name: "G"}
+23: {frequency: 99.42977077130361, name: "G (a bit sharp)"}
+24: {frequency: 102.3432854438525, name: "G# (a bit flat)"}
+25: {frequency: 103.83190280923992, name: "G#"}
+26: {frequency: 105.34217261280072, name: "G# (a bit sharp)"}
+27: {frequency: 108.42893388324059, name: "A (a bit flat)"}
+28: {frequency: 110.00606904349092, name: "A"}
+29: {frequency: 111.60614416288887, name: "A (a bit sharp)"}
+30: {frequency: 114.87645381001751, name: "A# (a bit flat)"}
+31: {frequency: 116.54737030711918, name: "A#"}
+32: {frequency: 118.24259084432384, name: "A# (a bit sharp)"}
+33: {frequency: 121.7073632225838, name: "B (a bit flat)"}
+34: {frequency: 123.47763758501912, name: "B"}
+35: {frequency: 125.2736611809874, name: "B (a bit sharp)"}
+36: {frequency: 128.94445964610932, name: "C (a bit flat)"}
+37: {frequency: 130.82, name: "C"}
+38: {frequency: 132.72282071652685, name: "C (a bit sharp)"}
+39: {frequency: 136.61189621715428, name: "C# (a bit flat)"}
+40: {frequency: 138.598962004083, name: "C#"}
+41: {frequency: 140.61493032842552, name: "C# (a bit sharp)"}
+42: {frequency: 144.73526229251718, name: "D (a bit flat)"}
+43: {frequency: 146.84048515983218, name: "D"}
+44: {frequency: 148.97632919887042, name: "D (a bit sharp)"}
+45: {frequency: 153.34166885133448, name: "D# (a bit flat)"}
+46: {frequency: 155.57207478465597, name: "D#"}
+47: {frequency: 157.83492271932428, name: "D# (a bit sharp)"}
+48: {frequency: 162.45983897545318, name: "E (a bit flat)"}
+49: {frequency: 164.8228717472473, name: "E"}
+50: {frequency: 167.22027562217554, name: "E (a bit sharp)"}
+51: {frequency: 172.12020371004647, name: "F (a bit flat)"}
+52: {frequency: 174.62374972252388, name: "F"}
+53: {frequency: 177.16371065028432, name: "F (a bit sharp)"}
+54: {frequency: 182.35500362439808, name: "F# (a bit flat)"}
+55: {frequency: 185.0074182296483, name: "F#"}
+56: {frequency: 187.69841309372507, name: "F# (a bit sharp)"}
+57: {frequency: 193.1983964118053, name: "G (a bit flat)"}
+58: {frequency: 196.00853179700746, name: "G"}
+59: {frequency: 198.85954154260722, name: "G (a bit sharp)"}
+60: {frequency: 204.68657088770502, name: "G# (a bit flat)"}
+61: {frequency: 207.66380561847987, name: "G#"}
+62: {frequency: 210.68434522560148, name: "G# (a bit sharp)"}
+63: {frequency: 216.85786776648118, name: "A (a bit flat)"}
+64: {frequency: 220.01213808698185, name: "A"}
+65: {frequency: 223.21228832577773, name: "A (a bit sharp)"}
+66: {frequency: 229.75290762003502, name: "A# (a bit flat)"}
+67: {frequency: 233.09474061423836, name: "A#"}
+68: {frequency: 236.48518168864769, name: "A# (a bit sharp)"}
+69: {frequency: 243.41472644516762, name: "B (a bit flat)"}
+70: {frequency: 246.95527517003828, name: "B"}
+71: {frequency: 250.54732236197484, name: "B (a bit sharp)"}
+72: {frequency: 257.88891929221865, name: "C (a bit flat)"}
+73: {frequency: 261.64, name: "C"}
+74: {frequency: 265.4456414330537, name: "C (a bit sharp)"}
+75: {frequency: 273.22379243430856, name: "C# (a bit flat)"}
+76: {frequency: 277.197924008166, name: "C#"}
+77: {frequency: 281.22986065685103, name: "C# (a bit sharp)"}
+78: {frequency: 289.47052458503424, name: "D (a bit flat)"}
+79: {frequency: 293.68097031966425, name: "D"}
+80: {frequency: 297.9526583977407, name: "D (a bit sharp)"}
+81: {frequency: 306.68333770266895, name: "D# (a bit flat)"}
+82: {frequency: 311.14414956931194, name: "D#"}
+83: {frequency: 315.66984543864857, name: "D# (a bit sharp)"}
+84: {frequency: 324.91967795090636, name: "E (a bit flat)"}
+85: {frequency: 329.6457434944946, name: "E"}
+86: {frequency: 334.44055124435107, name: "E (a bit sharp)"}
+87: {frequency: 344.2404074200929, name: "F (a bit flat)"}
+88: {frequency: 349.2474994450477, name: "F"}
+89: {frequency: 354.3274213005686, name: "F (a bit sharp)"}
